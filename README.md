@@ -1,5 +1,7 @@
 # Ruby Programming Crash Course
 
+> A comprehensive collection of Ruby programming concepts, examples, and exercises from a YouTube crash course. Perfect for beginners looking to learn Ruby from scratch.
+
 This repository contains my learning journey through the Ruby programming language crash course from YouTube.
 
 ## Course Information
